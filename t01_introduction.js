@@ -1,7 +1,12 @@
-/***
- Name of task
-*/
+/****************************
+29/04/25 Lukas
+Intro
+*****************************/
+console.log("Running t01_introduction.js");
 
 //variables
 
-console.log("Running t01_introduction.js");
+
+/**************************** 
+ *Main code
+ ****************************/ 
