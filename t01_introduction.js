@@ -1,8 +1,9 @@
 /****************************
+ 
 29/04/25 Lukas
 Intro
 *****************************/
-console.log("Running t01_introduction.js");
+console.log("J");
 
 //variables
 
