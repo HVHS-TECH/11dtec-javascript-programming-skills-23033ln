@@ -5,7 +5,7 @@
 Intro
 *****************************/
 console.log("Running t01_introduction.js");
-console.log("Josh likes touching planes");
+console.log("Josh likes touching planes PART2");
 
 //variables
 
