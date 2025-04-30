@@ -9,7 +9,7 @@ Intro
 //variables
 
 let age = 10;
-age + age = Age + 1;
+age = age + 1;
 console.log(age);
 
 /**************************** 
