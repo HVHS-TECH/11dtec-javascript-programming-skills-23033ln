@@ -4,14 +4,13 @@
 29/04/25 
 Intro
 *****************************/
-console.log("Running t01_introduction.js");
-console.log("Josh likes touching planes PART2");
+
 
 //variables
 
-let score = 10;
-score + score = +1;
-console.log(score);
+let age = 10;
+age + age = Age + 1;
+console.log(age);
 
 /**************************** 
  *Main code
