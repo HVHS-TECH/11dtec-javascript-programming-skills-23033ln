@@ -10,10 +10,15 @@ Intro
 
 let num1 = 80;
 let num2 = 10;
-console.log("Add", num1 + num2);
-console.log("subtract", num1 - num2);
-console.log("mutilpy", num1 * num2);
-console.log("divide", num1 / num2);
+let anwsers;
+anwsers = num1 + num2;
+console.log("Add", anwsers);
+anwsers = num1 - num2;
+console.log("subtract", anwsers);
+anwsers = num1 * num2;
+console.log("mutilpy", anwsers);
+anwsers = num1 / num2;
+console.log("divide", anwsers);
 
 
 
