@@ -10,9 +10,7 @@ console.log("Josh likes touching planes PART2");
 //variables
 
 var score = 100;
-score = 100;
-score = 110;
-Write(score);
+score + score = +1;
 console.log(score);
 
 /**************************** 
