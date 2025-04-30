@@ -8,11 +8,11 @@ Intro
 
 //variables
 let age = 68;
-let username = liltimmy;
+let username = "liltimmy";
 age = age + 1;
 username =username;
 console.log(age);
-
+console.log(username);
 /**************************** 
  *Main code
  ****************************/ 
