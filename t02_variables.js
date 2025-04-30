@@ -7,13 +7,11 @@ Intro
 
 
 //variables
-
-let user = timmy;
-let age = 10;
-user = user;
+let age = 68;
+let username = liltimmy;
 age = age + 1;
+username =username;
 console.log(age);
-console.log(user);
 
 /**************************** 
  *Main code
