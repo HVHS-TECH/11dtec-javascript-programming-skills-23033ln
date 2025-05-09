@@ -10,6 +10,7 @@ function Start() {
     userMoney = askMoney();
 }
 
-if (button pressed) {
-    
+if () {
+console.log("I stole your money");
+alert("");
 }
