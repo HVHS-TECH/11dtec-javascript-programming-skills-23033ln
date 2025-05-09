@@ -15,3 +15,4 @@ console.log("I stole your money");
 alert("I got your money");
 userMoney = 0;
 }
+
