@@ -9,3 +9,7 @@ function Start() {
     userAge = askAge();
     userMoney = askMoney();
 }
+
+if (button pressed) {
+    
+}
