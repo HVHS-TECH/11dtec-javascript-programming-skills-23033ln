@@ -181,7 +181,8 @@ var userAge;
         alert('You were put up to auction again');
         alert('You said, I want to break free');
         prompt('hows your day?');
-        alert(' Achemnet unlocked \n your first type in the web');
+        alert(' Achement unlocked \n your first type in the website \n 2 more to go');
+         
     }
 /****************************
  funtions
