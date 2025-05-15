@@ -10,7 +10,7 @@ var userAge;
  *Main code
  ****************************/
  userAge = prompt("How old are you?");
-    if(userAge <= 5 || userAge >= 65) {
+    if(userAge <= 0 || userAge >= 20) {
         alert('you are now named Josh');
         alert('you timetraveled to 1945');
         alert('you made some friends called, helen keller, Aung san suu kyi and the leader of germany aka friendly guy');
@@ -96,7 +96,7 @@ var userAge;
         alert('Loading...');
         alert('Loading...');
         alert('Loading...');
-        alert('achement unlocked \n scroller 3 more to go')
+        alert('achement unlocked \n Tapper 3 more to go')
         alert('Loading...');
         alert('Loading...');
         alert('Loading...');
@@ -181,6 +181,7 @@ var userAge;
         alert('You were put up to auction again');
         alert('You said, I want to break free');
         prompt('hows your day?');
+        alert(' Achemnet unlocked \n your first type');
     }
 /****************************
  funtions
