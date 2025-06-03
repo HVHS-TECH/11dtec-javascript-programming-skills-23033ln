@@ -10,9 +10,9 @@ function Start() {
     userMoney = askMoney();
 }
 
-if () {
+if (button pressed) {
 console.log("I stole your money");
 alert("I got your money");
-userMoney = 0;
+let userMoney = 0;
 }
 
