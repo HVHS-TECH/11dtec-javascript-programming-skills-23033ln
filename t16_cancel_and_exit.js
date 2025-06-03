@@ -7,5 +7,7 @@ function getUserName() {
     While (userReply) {
         userName = prompt("What's your name?");
     }
-    if (userName = null)
+    if (userName = null) {
+        return;
+    }
 }
